@@ -16,4 +16,6 @@
   width: 600px;
   text-align: center;
   overflow: scroll;
+  position: fixed;
+  left: 600px;
 }
