@@ -7,7 +7,7 @@ function App() {
         <h1>Welcome to Cob's</h1>
       </div>
         <div className='body'>
-          <body>
+      
           <h2>Privacy Policy for Cobs Cobblers</h2>
           <p>English
           Privacy Policy
@@ -229,11 +229,7 @@ function App() {
           becoming effective and update the "Last updated" date at the top of this Privacy Policy.
           You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy 
           Policy are effective when they are posted on this page.
-          
-
-
-          
-          </body>
+        
         </div>
         
     </div>
