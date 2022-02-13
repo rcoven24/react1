@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import background from "./react1/src/clouds.jpeg";
+import background from "clouds.jpeg";
 
 function App() {
   return (
