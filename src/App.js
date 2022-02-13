@@ -247,6 +247,11 @@ function App() {
           You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy 
           Policy are effective when they are posted on this page.
           </p>
+          <p>
+            Contact Us
+If you have any questions about this Privacy Policy, You can contact us:
+By email: info@CobsCobblers.com
+</p>
         
         </div>
         
