@@ -11,7 +11,6 @@ function App() {
         </p>
         <div>
           This is a barebones React app.
-          Test
         </div>
         <a
           className="App-link"
