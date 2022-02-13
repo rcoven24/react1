@@ -8,7 +8,7 @@ function App() {
       </div>
         <div className='body'>
       
-          <h2>Privacy Policy for Cobs Cobblers</h2>
+          <p>Privacy Policy for Cobs Cobblers</p>
           <p>English
           Privacy Policy
           Last updated: January 13, 2022
