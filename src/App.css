@@ -10,6 +10,7 @@
 }
 .header{
   text-align: center;
+  display: flex;
 }
 
 .privacy {
@@ -20,6 +21,7 @@
   margin: auto;
   position: relative;
   display: block;
+  display: flex;
 
 }
 
