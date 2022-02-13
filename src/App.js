@@ -263,6 +263,11 @@ By email: info@CobsCobblers.com
 </p>
         
         </div>
+        <div className='box2'>
+        <img src={shoe}></img>
+
+
+      </div>
         
     </div>
   );
