@@ -3,7 +3,7 @@
 }
 
 .main-container{
-  background-image: url(./shoe.jpeg);
+  background-image: url(./clouds.jpeg);
   background-size: cover;
 
 }
@@ -23,6 +23,9 @@
 }
 
 .box{
+  display: flex;
   flex-direction: column;
+  background-image: url(./shoe.jpg);
+
   
 }
