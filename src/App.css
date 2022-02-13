@@ -10,3 +10,7 @@
 .header{
   text-align: center;
 }
+
+.body{
+  word-break: break-all;
+}
