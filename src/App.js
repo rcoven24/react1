@@ -6,7 +6,7 @@ function App() {
       <div className='header'>
         <h1>Welcome to Cob's</h1>
       </div>
-        <div className='body'>
+        <div className='privacy'>
       
           <p>Privacy Policy for Cobs Cobblers</p>
           <p>English

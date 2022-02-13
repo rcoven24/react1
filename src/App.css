@@ -11,11 +11,13 @@
   text-align: center;
 }
 
-.body{
+.privacy {
   height: 100px;
   width: 600px;
   text-align: center;
   overflow: scroll;
-  position: absolute;
-  left:0;
+  margin: auto;
+  position: relative;
+  display: block;
+
 }
