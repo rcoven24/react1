@@ -3,6 +3,12 @@ import './App.css';
 function App() {
   return (
     <div className='main-container'>
+      <div className='box'>
+        <img src='./shoe.jpg'></img>
+        <img src='./shoe1.jpg'></img>
+        <img src='./shoe2.jpg'></img>
+
+      </div>
       <div className='header'>
         <h1>Welcome to Cob's</h1>
       </div>
