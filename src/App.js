@@ -4,9 +4,9 @@ function App() {
   return (
     <div className='main-container'>
       <div className='box'>
-        <img src='/Users/robcoven/Documents/react1/src/shoe.jpg'></img>
-        <img src='/Users/robcoven/Documents/react1/src/shoe1.jpg'></img>
-        <img src='/Users/robcoven/Documents/react1/src/shoe2.jpg'></img>
+        <img src='./shoe.jpg'></img>
+        <img src='./shoe1.jpg'></img>
+        <img src='./shoe2.jpg'></img>
 
       </div>
       <div className='header'>
