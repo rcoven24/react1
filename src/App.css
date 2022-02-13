@@ -5,6 +5,7 @@
 .main-container{
   background-image: url(./clouds.jpeg);
   background-size: cover;
+  display: flex;
 
 }
 .header{
