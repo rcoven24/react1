@@ -21,3 +21,8 @@
   display: block;
 
 }
+
+.box{
+  flex-direction: column;
+  
+}
