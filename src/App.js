@@ -53,7 +53,7 @@ function App() {
           of which such individual is accessing or using the Service, as applicable.
           </p>
           
-          Collecting and Using Your Personal Data
+          <p></p>Collecting and Using Your Personal Data
           Types of Data Collected
           Personal Data
           While using Our Service, We may ask You to provide Us with certain personally identifiable 
