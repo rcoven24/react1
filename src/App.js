@@ -1,26 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import background from "./react1/src/clouds.jpeg";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <div>
-          This is a barebones React app.
-        </div>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div  style style={{ backgroundImage: `url(${background})` }} className="App">
+      <h1>Welcome to Cob's</h1>
     </div>
   );
 }
