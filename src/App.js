@@ -1,12 +1,15 @@
 import './App.css';
+import shoe from './shoe.jpg';
+import shoe1 from './shoe1.jpg';
+import shoe2 from './shoe2.jpg';
 
 function App() {
   return (
     <div className='main-container'>
       <div className='box'>
-        <img src="/src/shoe.jpg"></img>
-        <img src="src/shoe1.jpg"></img>
-        <img src="./src/shoe2.jpg"></img>
+        <img src={shoe}></img>
+        <img src={shoe1}></img>
+        <img src={shoe2}></img>
 
       </div>
       <div className='header'>
