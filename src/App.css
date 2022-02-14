@@ -3,7 +3,6 @@
 }
 
 .background{
-  display: flex;
   background-image: url(./clouds.jpeg);
   background-size: cover;
   width: 100%;
@@ -23,7 +22,10 @@
 
 .header{
   text-align: center;
-  margin: 0 auto;
+  display: flex;
+  position: fixed;
+  left: 0%;
+  right: 0%;
 }
 
 .privacy {
