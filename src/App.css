@@ -62,5 +62,6 @@
 
 .form{
   display: flex;
-  order: 2;
+  flex-direction: column;
+  text-align: center;
 }
