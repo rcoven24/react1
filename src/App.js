@@ -279,7 +279,7 @@ function App() {
       <div className="main2">
       <div className="form">
           <form>
-            <input type={"checkbox"} id='agree' checked defaultChecked={this.state.chkbox} onChange={this.handleChangeChk}></input>
+            <input type={"checkbox"} id='agree' ></input>
             <label for="agree">I Agree</label>
           </form>
         </div>
