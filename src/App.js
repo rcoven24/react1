@@ -289,10 +289,7 @@ function App() {
 
       </div>
 
-      </div>
-      <Router exact path="/" component={App}></Router>
-      <Router exact path="/Light" component={Light}></Router>
-      
+      </div> 
     </div>
     
   );
