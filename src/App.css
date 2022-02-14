@@ -6,6 +6,7 @@
   background-image: url(./clouds.jpeg);
   background-size: cover;
   display: flex;
+  flex-direction: row;
 
 }
 .header{
