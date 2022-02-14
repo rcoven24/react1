@@ -10,7 +10,6 @@
 }
 .header{
   text-align: center;
-  display: flex;
 }
 
 .privacy {
@@ -25,14 +24,12 @@
 }
 
 .box{
-  display: flex;
   flex-direction: column;
 
   
 }
 
 .box2{
-  display: flex;
   flex-direction: column;
 
   
