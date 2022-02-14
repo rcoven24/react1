@@ -279,12 +279,12 @@ function App() {
       <div className="main2">
       <div className="form">
           <form>
-            <input type={"checkbox"} id='agree' ></input>
+            <input type={"checkbox"} id='agree' checked></input>
             <label for="agree">I Agree</label>
           </form>
         </div>
       <div className='submit'>
-        <input type={"submit"} value={"Continue"} className='submit' checked></input>
+        <input type={"submit"} value={"Continue"} className='submit'></input>
 
       </div>
 
