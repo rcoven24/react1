@@ -3,9 +3,7 @@ import shoe from './shoe.jpg';
 import shoe1 from './shoe1.jpg';
 import shoe2 from './shoe2.jpg';
 import shoe3 from './shoe3.jpg';
-import {Route,Link} from 'react-router-dom';
-import NavBar from './NavBar';
-import Light from './Light';
+
 
 function App() {
   return (
@@ -288,11 +286,6 @@ function App() {
         <input type={"submit"} value={"Continue"} className='submit'></input>
 
       </div>
-
-      </div>
-      <div className='switch'>
-        <NavBar></NavBar>
-        <Route exact path="/Light" component={Light}></Route>
 
       </div>
     </div>
