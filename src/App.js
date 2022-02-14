@@ -1,5 +1,4 @@
 import './App.css';
-import Navbar from './Navbar';
 import shoe from './shoe.jpg';
 import shoe1 from './shoe1.jpg';
 import shoe2 from './shoe2.jpg';
@@ -289,7 +288,6 @@ function App() {
       </div>
 
       </div>
-      <Navbar></Navbar>
     </div>
     
   );
