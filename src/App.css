@@ -70,4 +70,6 @@
 .submit{
   display: block;
   margin: 0 auto;
+  height: 2em;
+  width: 20em;
 }
