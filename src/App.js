@@ -278,9 +278,12 @@ function App() {
           <form>
             <input type={"checkbox"} id='agree' checked></input>
             <label for="agree">I agree</label>
-            <input type={"submit"} value={"Continue"} className='submit'></input>
           </form>
         </div>
+      <div className='submit'>
+        <input type={"submit"} value={"Continue"} className='submit'></input>
+
+      </div>
 
       </div>
     </div>
