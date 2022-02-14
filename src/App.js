@@ -6,11 +6,10 @@ import shoe2 from './shoe2.jpg';
 function App() {
   return (
     <div className='background'>
-      <div className='main-container'>
-        <div className='header'>
+      <div className='header'>
           <h1>Welcome to Cob's</h1>
         </div>
-
+      <div className='main-container'>
         <div className='box'>
           <img src={shoe}></img>
           <img src={shoe1}></img>

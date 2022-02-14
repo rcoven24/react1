@@ -19,8 +19,6 @@
 
 .header{
   text-align: center;
-  display: flex;
-  flex-direction: row;
 }
 
 .privacy {
@@ -60,4 +58,9 @@
   height: 100px;
   padding: 24px;
 
+}
+
+.form{
+  display: flex;
+  order: 2;
 }
