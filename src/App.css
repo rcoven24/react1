@@ -23,9 +23,8 @@
 .header{
   text-align: center;
   display: flex;
-  position: fixed;
-  left: 0%;
-  right: 0%;
+  flex-direction: column;
+  
 }
 
 .privacy {
