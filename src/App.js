@@ -3,10 +3,13 @@ import shoe from './shoe.jpg';
 import shoe1 from './shoe1.jpg';
 import shoe2 from './shoe2.jpg';
 import shoe3 from './shoe3.jpg';
+import {Route,Link} from "react-router-dom"
+import Light from './Light';
 
 
 function App() {
   return (
+    <Route exact path="/Light" component={Light}></Route>,
     <div className='background'>
       <div className='header'>
           <h1>Welcome to Cob's</h1>
