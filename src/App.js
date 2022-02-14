@@ -269,6 +269,11 @@ By email: info@CobsCobblers.com
 
 
       </div>
+      <form>
+        <input type={"checkbox"} id='agree'></input>
+        <label for="agree">I agree to the privacy policy</label>
+        <input type={"submit"} value={"Submit"}></input>
+      </form>
         
     </div>
   );
