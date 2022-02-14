@@ -2,6 +2,7 @@ import './App.css';
 import shoe from './shoe.jpg';
 import shoe1 from './shoe1.jpg';
 import shoe2 from './shoe2.jpg';
+import shoe3 from './shoe3.jpg';
 
 function App() {
   return (
@@ -266,7 +267,7 @@ function App() {
           
           </div>
           <div className='box2'>
-          <img src={shoe}></img>
+          <img src={shoe3}></img>
 
 
         </div>
