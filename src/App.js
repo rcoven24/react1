@@ -290,9 +290,6 @@ function App() {
       </div>
 
       </div>
-      <div className='route'>
-        <Route exact path="/Light" component={Light}></Route>
-        </div> 
     </div>
     
   );
