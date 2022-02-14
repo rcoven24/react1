@@ -18,7 +18,8 @@
 .main2{
   display: flex;
   flex-direction: column;
-  width: 50%;
+  width: 459.5px;
+  height: 75.5px;
   background-color: rgba(255, 255, 255, .15);  
   backdrop-filter: blur(5px);
   margin: 0 auto;
