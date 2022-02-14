@@ -2,13 +2,21 @@
   text-align: center;
 }
 
-.main-container{
+.background{
   background-image: url(./clouds.jpeg);
   background-size: cover;
+}
+
+.main-container{
   display: flex;
 
 
 }
+
+.main2{
+  display: flex;
+}
+
 .header{
   text-align: center;
   display: flex;
