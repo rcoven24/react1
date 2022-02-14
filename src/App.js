@@ -8,7 +8,12 @@ import shoe3 from './shoe3.jpg';
 
 function App() {
   const handleClick = () =>{
-    this.setState(!this.state)
+    if (!checked){
+      checked
+    }
+    else{
+      !checked
+    }
   }
   return (
     <div className='background'>
