@@ -277,7 +277,7 @@ function App() {
       <div className="form">
           <form>
             <input type={"checkbox"} id='agree' checked></input>
-            <label for="agree">I agree</label>
+            <label for="agree">I Agree</label>
           </form>
         </div>
       <div className='submit'>
