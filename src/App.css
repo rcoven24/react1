@@ -90,3 +90,7 @@
   width: 20em;
   cursor: pointer;
 }
+
+.NavbarItems{
+  background-color: dimgrey;
+}
