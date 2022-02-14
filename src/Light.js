@@ -5,7 +5,7 @@ import shoe2 from './shoe2.jpg';
 import shoe3 from './shoe3.jpg';
 import {Route,Link} from 'react-router-dom';
 
-function App() {
+function Light() {
   return (
     <div className='background'>
       <div className='header'>
@@ -293,4 +293,4 @@ function App() {
   );
 }
 
-export default App;
+export default Light;
