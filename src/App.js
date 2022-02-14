@@ -3,7 +3,6 @@ import shoe from './shoe.jpg';
 import shoe1 from './shoe1.jpg';
 import shoe2 from './shoe2.jpg';
 import shoe3 from './shoe3.jpg';
-import {Route,Link, Router} from "react-router-dom"
 
 
 function App() {
