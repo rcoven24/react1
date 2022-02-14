@@ -7,14 +7,6 @@ import shoe3 from './shoe3.jpg';
 
 
 function App() {
-  const handleClick = () =>{
-    if (!checked){
-      checked
-    }
-    else{
-      !checked
-    }
-  }
   return (
     <div className='background'>
       <div className='header'>
@@ -287,7 +279,7 @@ function App() {
       <div className="main2">
       <div className="form">
           <form>
-            <input type={"checkbox"} id='agree' checked onClick={handleClick}></input>
+            <input type={"checkbox"} id='agree' defaultChecked={this.state.chkbox} onChange={this.handleChangeChk}></input>
             <label for="agree">I Agree</label>
           </form>
         </div>
