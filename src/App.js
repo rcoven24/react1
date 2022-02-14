@@ -284,7 +284,7 @@ function App() {
           </form>
         </div>
       <div className='submit'>
-        <input type={"submit"} value={"Continue"} className='submit'></input>
+        <input type={"submit"} value={"Continue"} className='submit' checked></input>
 
       </div>
 
