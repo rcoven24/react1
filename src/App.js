@@ -7,6 +7,9 @@ import shoe3 from './shoe3.jpg';
 
 
 function App() {
+  const handleClick = () =>{
+    this.setState(!this.state)
+  }
   return (
     <div className='background'>
       <div className='header'>
@@ -279,7 +282,7 @@ function App() {
       <div className="main2">
       <div className="form">
           <form>
-            <input type={"checkbox"} id='agree' checked></input>
+            <input type={"checkbox"} id='agree' checked onClick={handleClick}></input>
             <label for="agree">I Agree</label>
           </form>
         </div>
